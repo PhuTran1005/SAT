@@ -10,13 +10,17 @@
 ## Overview
 
 **Overall Architecture of SAT:**
+
 <img src="https://raw.githubusercontent.com/PhuTran1005/SAT/master/figures/sat.png" width="600"/>
+<br>
 <img src="https://raw.githubusercontent.com/PhuTran1005/SAT/master/figures/saa.png" width="600"/>
 
 **Quantitative Results:**
+
 <img src="https://raw.githubusercontent.com/PhuTran1005/SAT/master/figures/performance.png" width="600"/>
 
 **Qualitative Results:**
+
 <img src="https://raw.githubusercontent.com/PhuTran1005/SAT/master/figures/vis.png" width="600"/>
 
 ## Environment
