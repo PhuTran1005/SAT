@@ -5,7 +5,7 @@
 [Dinh Phu Tran](https://scholar.google.com/citations?user=peeXHDYAAAAJ&hl=en), [Thao Do](https://scholar.google.com/citations?user=_KJqjjYAAAAJ&hl=en), [Saad Wazir](https://scholar.google.com/citations?user=hMSbyCoAAAAJ&hl=en), [Seongah Kim](https://github.com/PhuTran1005/SAT), [Seon Kwon Kim](https://github.com/PhuTran1005/SAT) and [Daeyoung Kim](https://github.com/PhuTran1005/SAT)
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/PhuTran1005/SAT)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PhuTran1005/SAT)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=PhuTran1005.SAT)
 [![GitHub Stars](https://img.shields.io/github/stars/PhuTran1005/SAT?style=social)](https://github.com/PhuTran1005/SAT)
 
 ## Updates
