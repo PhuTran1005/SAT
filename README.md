@@ -6,7 +6,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/PhuTran1005/SAT)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PhuTran1005/SAT)
-[![GitHub Stars](https://img.shields.io/github/stars/XPixelGroup/RethinkVSRAlignment?style=social)](https://github.com/XPixelGroup/RethinkVSRAlignment)
+[![GitHub Stars](https://img.shields.io/github/stars/PhuTran1005/SAT?style=social)](https://github.com/PhuTran1005/SAT)
 
 ## Updates
 - ✅ 2026-04-01: Release repository
