@@ -59,7 +59,7 @@ The testing results will be saved in the `./results` folder.
 
 - The training command is like
 ```
-CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 --master_port=4321 basicsr/train.py -opt options/train/train_SAT_SRx4.yml --launcher pytorch
+CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node=4 --master_port=4321 basicsr/train.py -opt options/train/train_SAT_SRx4.yml --launcher pytorch
 ```
 
 The training logs and weights will be saved in the `./experiments` folder.
